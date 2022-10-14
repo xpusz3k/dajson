@@ -79,12 +79,11 @@ body {
 section.body {
   background-color: #333;
 }
-
 .ads {
-  background-color: rgba(33, 202, 202, 0.486);
-  border-style: solid;
-  
+    background-color: #333;
+    
 }
+
 
 footer {
   background-color: black;
@@ -95,11 +94,16 @@ footer {
 footer li {
   text-decoration: none;
 }
+.boddy {
+    background-color: #333;
 
-/* KONIEC */
-/*   start  */
-.text {
-  text-align: center;
+}
+.BOXES {
+
+}
+.box {
+  background-color: #04AA6D;
+  height: 500px;
 }
 
 
