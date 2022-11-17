@@ -1,11 +1,13 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  
 }
 
 .topnav {
   overflow: hidden;
   background-color: rgb(0, 0, 0);
+  
 }
 
 .topnav a {
@@ -63,36 +65,17 @@ body {
 
 /* KONIEC */
 /*   start  */
-.homes {
 
-  background-color: #333;
-text-align: center;
-color: #f2f2f2;
-font-size: 30px;
-background: rgb(167,56,179);
-background: linear-gradient(90deg, rgba(167,56,179,1) 20%, rgba(98,16,221,1) 54%, rgba(0,212,255,1) 80%);
 
-}
 
-.body {
-background-color: #333;
-text-align: center;
-color: #f2f2f2;
-font-size: 30px;
-background: rgb(167,56,179);
-background: linear-gradient(90deg, rgba(167,56,179,1) 20%, rgba(98,16,221,1) 54%, rgba(0,212,255,1) 80%);
-
-}
 .footer {
 color: #ddd;
 background-color: black;
 text-align: center;
+height: 600px;
 
 }
-.text {
-  
-font-weight: 600;
-}
+
 a:hover {
 
 color: rgb(251, 255, 0);
@@ -102,7 +85,55 @@ color: rgb(188, 215, 226);
 text-decoration: none;
 font-size: 30px;
 }
-</style>
 
 
+.homess
+{
+  background-color: #333;
+}
+.navtext {
+  text-align: center;
+  color: aliceblue;
+  font-family: fantasy;
+  font-size: 50px;
+  
+}
 
+.righten 
+{
+  float: right;
+  background-color: aqua;
+  width: 200px;
+  height: 500px;
+}
+/* wdawdwada*/
+.BOX {
+  display: block;
+  width: 300px;
+  height: 600px;
+  margin-left: 800px;
+  background-color: rgb(34, 158, 196);
+  border-radius:20px;
+border: 5px 
+;
+text-align: center;
+margin-top: 10px;
+display: block;
+-webkit-box-shadow: 5px 9px 11px -3px rgba(18, 38, 255, 1);
+-moz-box-shadow: 5px 9px 11px -3px rgba(18, 38, 255, 1);
+box-shadow: 5px 9px 11px -3px rgba(18, 38, 255, 1);
+}
+.header
+{
+  font-size: 40px;
+  color: azure;
+}
+.content 
+{
+  font-size: 20px;
+}
+.colors
+{
+  font-size: 80px;
+  color: aqua;
+}
