@@ -63,49 +63,46 @@ body {
 
 /* KONIEC */
 /*   start  */
-.text {
-  text-align: center;
+.homes {
 
-
-  font-size: 40px;
-  background-image: -webkit-gradient(linear,
-      left top, left bottom,
-      from(#5b31a0),
-      to(#85008a));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-section.body {
   background-color: #333;
-}
-.ads {
-    background-color: #333;
-    
-}
-
-
-footer {
-  background-color: black;
-  text-align: center;
-  color: azure;
-  height: 400px;
-}
-footer li {
-  text-decoration: none;
-}
-.boddy {
-    background-color: #333;
+text-align: center;
+color: #f2f2f2;
+font-size: 30px;
+background: rgb(167,56,179);
+background: linear-gradient(90deg, rgba(167,56,179,1) 20%, rgba(98,16,221,1) 54%, rgba(0,212,255,1) 80%);
 
 }
-.BOXES {
-background-color: #5b31a0;
-border-style: solid;
+
+.body {
+background-color: #333;
+text-align: center;
+color: #f2f2f2;
+font-size: 30px;
+background: rgb(167,56,179);
+background: linear-gradient(90deg, rgba(167,56,179,1) 20%, rgba(98,16,221,1) 54%, rgba(0,212,255,1) 80%);
+
 }
-.box {
-  background-color: #04AA6D;
-  height: 500px;
+.footer {
+color: #ddd;
+background-color: black;
+text-align: center;
+
 }
+.text {
+  
+font-weight: 600;
+}
+a:hover {
+
+color: rgb(251, 255, 0);
+}
+a {
+color: rgb(188, 215, 226);
+text-decoration: none;
+font-size: 30px;
+}
+</style>
 
 
 
