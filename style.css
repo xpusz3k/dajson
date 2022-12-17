@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Roboto+Slab:wght@600&family=Roboto:wght@100;400&display=swap');
+
 body {
   background-color: rgb(255, 255, 255);
   margin: 0;
@@ -98,64 +100,44 @@ font-size: 30px;
 {
   background-color: white;
 }
-.navtext {
+
+article
+{
   text-align: center;
-  color: rgb(0, 0, 0);
-  font-family: fantasy;
-  font-size: 50px;
-  
+}  
+.block
+{
+font-size: 40px;
+}
+#left
+{
+margin-top: 10px;
+float: right;
+margin-right: 20px;
+
+}
+.ads
+{
+
+width: 300px;
+height: 600px;
+background-color: rgb(255, 255, 255);
+}
+.main 
+{
+height: 500px;
 }
 
-.righten 
-{
-  float: right;
-  background-color: aqua;
-  width: 200px;
-  height: 500px;
-}
-/* wdawdwada*/
-.BOX {
-  display: block;
-  width: 300px;
-  height: 600px;
-  margin-left: 800px;
-  background-color: rgb(34, 158, 196);
-  border-radius:20px;
-border: 5px 
-;
-text-align: center;
-margin-top: 10px;
-display: block;
--webkit-box-shadow: 5px 9px 11px -3px rgba(18, 38, 255, 1);
--moz-box-shadow: 5px 9px 11px -3px rgba(18, 38, 255, 1);
-box-shadow: 5px 9px 11px -3px rgba(18, 38, 255, 1);
-}
-.header
-{
-  font-size: 40px;
-  color: azure;
-}
-.content 
-{
-  font-size: 20px;
-}
-.colors
-{
-  font-size: 40px;
-  color: aqua;
-}
-.SOON 
+.allert
 {
   background-color: #333;
-  font-size: 60px;
+  color: #ddd;
+font-family: 'Alkalami', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
 }
-article {
-  text-align: center;
-  background-color: cyan;
-  height: 600px;
-  
-}
-
-.ads{
-  height: 190px;
+.box
+{
+  background-color: aqua;
+  height: 300px;
 }
